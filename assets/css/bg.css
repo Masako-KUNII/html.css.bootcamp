@@ -1,0 +1,63 @@
+body{
+    background-color: aquamarine;
+
+
+}
+
+table,th,td{
+    border: 10px solid black;
+    
+}
+
+td{
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+
+p{
+
+    border: 1px solid;
+    width: 200px;
+    height: 100px;
+    overflow: scroll;
+    box-shadow: 10px 15px 10px 5px red;
+    box-sizing: content-box;
+}
+
+#solid{
+    border-top: 10px tomato
+    border-bottom 10px black;
+}
+#dotted{
+    border: 10px dotted teal;
+}
+
+#dashed{
+    border: 10px dashed crimson;
+}
+
+#double{
+    border: 10px double seagreen;
+}
+
+#groove{
+    border: 10px groove seagreen;
+}
+
+#ridge{
+    border: 10px ridge gray;
+}
+#inset{
+    border: 10px inset dodgerblue;
+}
+#outside{
+    border: 10px outset goldenrod;
+}
+#radius{
+    border: 10px solid black;
+    border-radius: 50px;
+}
+

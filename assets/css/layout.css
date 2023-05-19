@@ -1,0 +1,16 @@
+img{float: left;
+    width: 100px;
+    height: 100px;
+}
+
+#img1{
+    
+}
+
+#clear{
+    clear: right;
+}
+
+#imag2{
+    float: right;
+}

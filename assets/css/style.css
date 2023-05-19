@@ -1,0 +1,32 @@
+*{
+    color: blue;
+
+}
+
+p{
+    color: pink;
+}
+
+span{
+    color: green;
+}
+
+h1.topheader{
+    color: darkcyan;
+}
+
+h1{
+    color: brown;
+}
+
+.topheader{
+    color: brown;
+}
+
+#firstparagrah{
+    color: aquamarine;
+}
+
+.header-body{
+    background-color: black;
+}
